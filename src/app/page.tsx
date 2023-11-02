@@ -38,15 +38,15 @@ export default function Home() {
             </div>
           </div>
           <div className="lg:w-2/3 mt-6 lg:mt-0 mt-8">
-            <h2 className="text-5xl font-bold" style={{ fontFamily: 'Sfizia Italic' }}>Hi, I'm Eric.</h2>
+            <h2 className="text-5xl font-bold" style={{ fontFamily: 'Sfizia Italic' }}>Hi, I&apos;m Eric.</h2>
             <p className="mt-4 text-gray-600">
-              I'm a junior studying Computer Science at UCLA who loves building things and solving problems with code. <br></br><br></br>
+              I&apos;m a junior studying Computer Science at UCLA who loves building things and solving problems with code. <br></br><br></br>
               
-              Through the classes I've taken, I've gained a solid foundation in various computer science domains including algorithms, networking, machine learning, computer architecture, and software construction. 
+              Through the classes I&apos;ve taken, I&apos;ve gained a solid foundation in various computer science domains including algorithms, networking, machine learning, computer architecture, and software construction. 
               I also worked as a Software Engineer Intern at Scripps Research where my role spanned the whole tech stack, from creating interactive webpages with React.js, to stamping out bugs and 
               adding new features to our backend API with Node.js, to making the build process more efficient and flexible with Docker. <br></br><br></br>
 
-              I'm currently looking for a new role as a Software Engineer Intern. <span className="font-semibold">Hire me?</span> <br></br>
+              I&apos;m currently looking for a new role as a Software Engineer Intern. <span className="font-semibold">Hire me?</span> <br></br>
             </p>
 
             <div className="flex items-center space-x-6 mt-6">
