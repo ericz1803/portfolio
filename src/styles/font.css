@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sfizia';
+    src: url('/fonts/atipo-sfizia-regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sfizia Italic';
+    src: url('/fonts/atipo-sfizia-regular-italic.ttf') format('truetype');
+}
